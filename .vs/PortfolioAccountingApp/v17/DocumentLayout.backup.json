@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{649C9BEA-7ED4-48F1-A61D-C4BF94829369}|PortfolioAccountingApp\\PortfolioAccountingApp.csproj|c:\\repositories\\.net_mstest\\portfolioaccountingapp\\portfolioaccountingapp\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649C9BEA-7ED4-48F1-A61D-C4BF94829369}|PortfolioAccountingApp\\PortfolioAccountingApp.csproj|solutionrelative:portfolioaccountingapp\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|c:\\repositories\\.net_mstest\\portfolioaccountingapp\\portfolioaccountingapp.test\\postiondbintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|solutionrelative:portfolioaccountingapp.test\\postiondbintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649C9BEA-7ED4-48F1-A61D-C4BF94829369}|PortfolioAccountingApp\\PortfolioAccountingApp.csproj|c:\\repositories\\.net_mstest\\portfolioaccountingapp\\portfolioaccountingapp\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649C9BEA-7ED4-48F1-A61D-C4BF94829369}|PortfolioAccountingApp\\PortfolioAccountingApp.csproj|solutionrelative:portfolioaccountingapp\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649C9BEA-7ED4-48F1-A61D-C4BF94829369}|PortfolioAccountingApp\\PortfolioAccountingApp.csproj|c:\\repositories\\.net_mstest\\portfolioaccountingapp\\portfolioaccountingapp\\portfoliodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649C9BEA-7ED4-48F1-A61D-C4BF94829369}|PortfolioAccountingApp\\PortfolioAccountingApp.csproj|solutionrelative:portfolioaccountingapp\\portfoliodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|c:\\repositories\\.net_mstest\\portfolioaccountingapp\\portfolioaccountingapp.test\\financialcalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|solutionrelative:portfolioaccountingapp.test\\financialcalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649C9BEA-7ED4-48F1-A61D-C4BF94829369}|PortfolioAccountingApp\\PortfolioAccountingApp.csproj|c:\\repositories\\.net_mstest\\portfolioaccountingapp\\portfolioaccountingapp\\financialcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649C9BEA-7ED4-48F1-A61D-C4BF94829369}|PortfolioAccountingApp\\PortfolioAccountingApp.csproj|solutionrelative:portfolioaccountingapp\\financialcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|c:\\repositories\\.net_mstest\\portfolioaccountingapp\\portfolioaccountingapp.test\\portfoliotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|solutionrelative:portfolioaccountingapp.test\\portfoliotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649C9BEA-7ED4-48F1-A61D-C4BF94829369}|PortfolioAccountingApp\\PortfolioAccountingApp.csproj|c:\\repositories\\.net_mstest\\portfolioaccountingapp\\portfolioaccountingapp\\investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649C9BEA-7ED4-48F1-A61D-C4BF94829369}|PortfolioAccountingApp\\PortfolioAccountingApp.csproj|solutionrelative:portfolioaccountingapp\\investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|c:\\repositories\\.net_mstest\\portfolioaccountingapp\\portfolioaccountingapp.test\\investmenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|solutionrelative:portfolioaccountingapp.test\\investmenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|c:\\repositories\\.net_mstest\\portfolioaccountingapp\\portfolioaccountingapp.test\\positiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|solutionrelative:portfolioaccountingapp.test\\positiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|c:\\repositories\\.net_mstest\\portfolioaccountingapp\\portfolioaccountingapp.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|solutionrelative:portfolioaccountingapp.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|c:\\repositories\\.net_mstest\\portfolioaccountingapp\\portfolioaccountingapp.test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAD68F3-5E00-4AF0-ADF6-662DB44B5707}|PortfolioAccountingApp.Test\\PortfolioAccountingApp.Test.csproj|solutionrelative:portfolioaccountingapp.test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649C9BEA-7ED4-48F1-A61D-C4BF94829369}|PortfolioAccountingApp\\PortfolioAccountingApp.csproj|c:\\repositories\\.net_mstest\\portfolioaccountingapp\\portfolioaccountingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649C9BEA-7ED4-48F1-A61D-C4BF94829369}|PortfolioAccountingApp\\PortfolioAccountingApp.csproj|solutionrelative:portfolioaccountingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostionDbIntegrationTest.cs",
+              "DocumentMoniker": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\PostionDbIntegrationTest.cs",
+              "RelativeDocumentMoniker": "PortfolioAccountingApp.Test\\PostionDbIntegrationTest.cs",
+              "ToolTip": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\PostionDbIntegrationTest.cs",
+              "RelativeToolTip": "PortfolioAccountingApp.Test\\PostionDbIntegrationTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:22:34.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PortfolioDbContext.cs",
+              "DocumentMoniker": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp\\PortfolioDbContext.cs",
+              "RelativeDocumentMoniker": "PortfolioAccountingApp\\PortfolioDbContext.cs",
+              "ToolTip": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp\\PortfolioDbContext.cs",
+              "RelativeToolTip": "PortfolioAccountingApp\\PortfolioDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:20:41.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinancialCalculatorTest.cs",
+              "DocumentMoniker": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\FinancialCalculatorTest.cs",
+              "RelativeDocumentMoniker": "PortfolioAccountingApp.Test\\FinancialCalculatorTest.cs",
+              "ToolTip": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\FinancialCalculatorTest.cs",
+              "RelativeToolTip": "PortfolioAccountingApp.Test\\FinancialCalculatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:18:41.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp\\Position.cs",
+              "RelativeDocumentMoniker": "PortfolioAccountingApp\\Position.cs",
+              "ToolTip": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp\\Position.cs",
+              "RelativeToolTip": "PortfolioAccountingApp\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:09:11.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinancialCalculator.cs",
+              "DocumentMoniker": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp\\FinancialCalculator.cs",
+              "RelativeDocumentMoniker": "PortfolioAccountingApp\\FinancialCalculator.cs",
+              "ToolTip": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp\\FinancialCalculator.cs",
+              "RelativeToolTip": "PortfolioAccountingApp\\FinancialCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:18:14.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp\\Portfolio.cs",
+              "RelativeDocumentMoniker": "PortfolioAccountingApp\\Portfolio.cs",
+              "ToolTip": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp\\Portfolio.cs",
+              "RelativeToolTip": "PortfolioAccountingApp\\Portfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:11:17.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Investment.cs",
+              "DocumentMoniker": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp\\Investment.cs",
+              "RelativeDocumentMoniker": "PortfolioAccountingApp\\Investment.cs",
+              "ToolTip": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp\\Investment.cs",
+              "RelativeToolTip": "PortfolioAccountingApp\\Investment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:13:30.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvestmentTest.cs",
+              "DocumentMoniker": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\InvestmentTest.cs",
+              "RelativeDocumentMoniker": "PortfolioAccountingApp.Test\\InvestmentTest.cs",
+              "ToolTip": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\InvestmentTest.cs",
+              "RelativeToolTip": "PortfolioAccountingApp.Test\\InvestmentTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:13:56.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PortfolioTest.cs",
+              "DocumentMoniker": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\PortfolioTest.cs",
+              "RelativeDocumentMoniker": "PortfolioAccountingApp.Test\\PortfolioTest.cs",
+              "ToolTip": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\PortfolioTest.cs",
+              "RelativeToolTip": "PortfolioAccountingApp.Test\\PortfolioTest.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:10:18.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PositionTests.cs",
+              "DocumentMoniker": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\PositionTests.cs",
+              "RelativeDocumentMoniker": "PortfolioAccountingApp.Test\\PositionTests.cs",
+              "ToolTip": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\PositionTests.cs",
+              "RelativeToolTip": "PortfolioAccountingApp.Test\\PositionTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:08:01.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\Test1.cs",
+              "RelativeDocumentMoniker": "PortfolioAccountingApp.Test\\Test1.cs",
+              "ToolTip": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\Test1.cs",
+              "RelativeToolTip": "PortfolioAccountingApp.Test\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:05:09.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "PortfolioAccountingApp.Test\\MSTestSettings.cs",
+              "ToolTip": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp.Test\\MSTestSettings.cs",
+              "RelativeToolTip": "PortfolioAccountingApp.Test\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:05:06.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp\\Program.cs",
+              "RelativeDocumentMoniker": "PortfolioAccountingApp\\Program.cs",
+              "ToolTip": "C:\\Repositories\\.NET_MSTEST\\PortfolioAccountingApp\\PortfolioAccountingApp\\Program.cs",
+              "RelativeToolTip": "PortfolioAccountingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:02:16.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
